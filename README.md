@@ -3,7 +3,7 @@
 **Email:** [sudhaleonov16@gmail.com](mailto:sudhaleonov16@gmail.com)
 
 ## **Professional Summary**
-- Experienced **Medical Transcriptionist** with **9 years** of expertise in **medical documentation, quality assurance, and content development**.
+- Experienced **Healthcare Documentation Editor** with **9 years** of expertise in **medical documentation, quality assurance, and content development**.
 - Adept at **creating clear, accurate, and compliant documentation**, including **medical reports, standard operating procedures (SOPs), user guides, and process manuals**.
 - Proficient in **technical writing principles** and **ensuring clarity, consistency, and compliance** in healthcare documentation.
 - Knowledgeable in **Markdown, MadCap Flare, DITA, Confluence, Camtasia, Microsoft word, EHR systems, and regulatory documentation (HIPAA compliance)**.
