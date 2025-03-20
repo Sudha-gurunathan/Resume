@@ -24,13 +24,13 @@
 - **Medical Documentation Expertise:** EHR Systems, HIPAA Compliance, Medical Terminology
 
 ## **Education**
-**Bachelor of Science (B.Sc.) in Biotechnology** - *PSG College of Arts and Science | 2013 - 2015*
+**Bachelor of Science (B.Sc.) in Biotechnology**: *PSG College of Arts and Science | 2013 - 2015*
 
 ## **Certifications & Training**
-- **Certified Medical Transcriptionist** - *Aquity Solutions*
-- **HIPAA Compliance Training** - *Aquity Solutions*
-- **EHR & Healthcare Documentation Training** - *Aquity Solutions*
-- **Technical Writing for Beginners** - TechWriters Tribe
+- **Certified Medical Transcriptionist**: *Aquity Solutions*
+- **HIPAA Compliance Training**: *Aquity Solutions*
+- **EHR & Healthcare Documentation Training**: *Aquity Solutions*
+- **Certified Technical Writer**: TechWriters Tribe
 
 ## **Personal Profile**
 - **Date of Birth:** 11/16/1995
