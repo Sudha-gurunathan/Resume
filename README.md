@@ -6,7 +6,7 @@
 - Experienced **Healthcare Documentation Editor** with **9 years** of expertise in **medical documentation, quality assurance, and content development**.
 - Adept at **creating clear, accurate, and compliant documentation**, including **medical reports, standard operating procedures (SOPs), user guides, and process manuals**.
 - Proficient in **technical writing principles ensuring clarity, consistency, and compliance** in healthcare documentation.
-- Knowledgeable in **Jira, Markdown, MadCap Flare, DITA, Confluence, Camtasia, Microsoft Word, EHR systems, and regulatory documentation (HIPAA compliance)**.
+- Knowledgeable in **HTML, API Documentation, Jira, Markdown, MadCap Flare, DITA, Confluence, Camtasia, Microsoft Word, EHR systems, and regulatory documentation (HIPAA compliance)**.
 - Passionate about **developing clear, user-friendly documentation** for healthcare and technology domains.
 
 ## **Work Experience**
