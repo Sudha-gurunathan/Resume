@@ -1,6 +1,8 @@
 # Resume
 ## Name: P.S. Sudha
-**Email:** [sudhaleonov16@gmail.com](mailto:sudhaleonov16@gmail.com)
+**Email:** [sudhaleonov16@gmail.com](mailto:sudhaleonov16@gmail.com)  
+**LinkedIn Profile:** https://www.linkedin.com/in/sudha-gurunathan-b295b8343/  
+**Portfolio:** https://drive.google.com/drive/folders/17NhF0SkymqmnS-0mMk96tbg0hzOjFlSq
 
 ## **Professional Summary**
 - Experienced **Healthcare Documentation Editor** with **9 years** of expertise in **medical documentation, quality assurance, and content development**.
