@@ -5,16 +5,26 @@
 **Portfolio:** https://drive.google.com/drive/folders/17NhF0SkymqmnS-0mMk96tbg0hzOjFlSq
 
 ## **Professional Summary**
-- Experienced **Healthcare Documentation Editor** with **9 years** of expertise in **medical documentation, quality assurance, and content development**.
-- Adept at **creating clear, accurate, and compliant documentation**, including **medical reports, standard operating procedures (SOPs), user guides, and process manuals**.
-- Proficient in **technical writing principles ensuring clarity, consistency, and compliance** in healthcare documentation.
-- Knowledgeable in **HTML, API Documentation, Jira, Markdown, MadCap Flare, DITA, Confluence, Camtasia, Microsoft Word, EHR systems, and regulatory documentation (HIPAA compliance)**.
-- Passionate about **developing clear, user-friendly documentation** for healthcare and technology domains.
+- Detail-oriented Technical Writer with 1 year of experience in producing clear and user-friendly documentation using Microsoft Word and Google Docs, backed by 8 years in healthcare documentation.
+- Experienced in creating SOPs, user guides, process documentation, and training materials.
+- Knowledgeable in tools like MadCap Flare, Jira, DITA, Confluence, and Camtasia with a focus on content clarity, consistency, and usability.  
+## **Professional Experience**
+Technical Writer  
+*Aquity Solutions* | March 2023 – March 2025
 
-## **Work Experience**
-### **Senior Medical Transcriptionist & Documentation Specialist** - *Aquity Solutions*
-**February 9, 2016 - April 6, 2025**
+- Created and formatted user guides, SOPs, and internal process documents using MS Word and Google Docs.
 
+- Collaborated with SMEs and QA teams to collect accurate technical information.
+
+- Ensured documentation followed organizational standards for consistency and clarity.
+
+- Proofread and edited documents, applying style guides and formatting best practices.
+
+- Maintained version control and tracked edits using Google Docs sharing and commenting features.
+
+Senior Medical Transcriptionist & Documentation Specialist
+
+*Aquity Solutions* | February 2016 – February 2023
 - Transcribed and **edited complex medical reports, discharge summaries, and physician notes** with **99%+ accuracy**.
 - Assisted in **process documentation and structured formatting** to improve **readability and usability**.
 
@@ -23,8 +33,12 @@
 - **Version Control & Collaboration:** Git, GitHub, Markdown
 - **Technical Writing Deliverables:** User Manuals, SOPs, How-To Guides, Release Notes, Process Documentation
 - **Editing & Formatting:** Proofreading, Style Guides, Formatting for Clarity
-- **Medical Documentation Expertise:** EHR Systems, HIPAA Compliance, Medical Terminology
-
+## **Core Skills**
+- Primary Tools: Microsoft Word, Google Docs
+- Knowledgeable In: MadCap Flare, Jira, Confluence, DITA/XML, Camtasia, Markdown
+- Documentation Types: SOPs, User Guides, How-To Documents, Internal Manuals, EHR Workflows
+- Content Development: Proofreading, Formatting, Style Guide Compliance, Version Management
+- Domain Expertise: Medical Terminology, HIPAA Compliance, EHR Documentation, QA Review
 ## **Education**
 **Bachelor of Science (B.Sc.) in Biotechnology**: *PSG College of Arts and Science | 2013 - 2015*
 
