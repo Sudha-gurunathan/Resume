@@ -22,9 +22,9 @@ Technical Writer
 
 - Maintained version control and tracked edits using Google Docs sharing and commenting features.
 
-Senior Medical Transcriptionist & Documentation Specialist
+Senior Healthcare Documentation Editor
 
-*Aquity Solutions* | February 2016 – February 2023
+*Aquity Solutions* | February 2016 – February 2024
 - Transcribed and **edited complex medical reports, discharge summaries, and physician notes** with **99%+ accuracy**.
 - Assisted in **process documentation and structured formatting** to improve **readability and usability**.
 
