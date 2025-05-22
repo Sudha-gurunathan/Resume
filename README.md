@@ -1,12 +1,13 @@
 # Resume
 ## Name: P.S. Sudha
+## Contact: 9944669222
 **Email:** [sudhaleonov16@gmail.com](mailto:sudhaleonov16@gmail.com)  
 **LinkedIn Profile:** https://www.linkedin.com/in/sudha-gurunathan-b295b8343/  
 **Portfolio:** https://drive.google.com/drive/folders/17NhF0SkymqmnS-0mMk96tbg0hzOjFlSq
 
 ## **Professional Summary**
-- Detail-oriented Technical Writer with 1 year of experience in producing clear and user-friendly documentation using Microsoft Word and Google Docs, backed by 8 years in healthcare documentation.
-- Experienced in creating SOPs, user guides, process documentation, and training materials.
+- Detail-oriented Technical Writer with 2 years of experience in producing clear and user-friendly documentation using Microsoft Word and Google Docs, backed by 7 years in healthcare documentation.
+- Experienced in creating user guides, process documentation, and training materials.
 - Knowledgeable in tools like MadCap Flare, Jira, DITA, Confluence, and Camtasia with a focus on content clarity, consistency, and usability.  
 ## **Professional Experience**
 Technical Writer  
